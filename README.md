@@ -1,9 +1,7 @@
 # AutoScrape-CRM
 
 
-Sure, let's focus on automating Step A1 in detail.
-
-### Step A1: File Creation Breakdown
+### Step A1: File Creation
 
 #### Method 1: Using Licensed Scraping Software
 
